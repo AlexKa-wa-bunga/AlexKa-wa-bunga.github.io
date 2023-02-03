@@ -1,2 +1,2 @@
-# AlexKa-wa-bunga.github.io
+# CV
 Business card-ish website (using HTML + CSS + JS)
